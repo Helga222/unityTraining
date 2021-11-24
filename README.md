@@ -1,5 +1,6 @@
 # unityTraining
 ### 1. Block breaker ###
+![image info](pictures/1.jpg)
 ![image info](pictures/Block_breaker_1.jpg)
 ![image info](pictures/Block_breaker_2.jpg)
 ### 2. Laser defender ###
