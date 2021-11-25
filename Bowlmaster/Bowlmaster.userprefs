@@ -1,0 +1,19 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreDisplay.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Tests\ActionMasterTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActionMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tests\ActionMasterOld.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tests\ScoreMasterTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tests\ScoreDisplayTest.cs" Line="70" Column="27" />
+      <File FileName="Assets\Scripts\ScoreDisplay.cs" Line="30" Column="84" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragLaunch.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
